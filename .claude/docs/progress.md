@@ -8,6 +8,10 @@
 - [x] .gitignore 파일 추가 (Next.js 프로젝트용)
 - [x] CLAUDE.md 파일 생성 (한국어, 프로젝트 가이드)
 - [x] git-commit 스킬 설정 추가
+- [x] 커스텀 에이전트 설정 추가
+  - [x] frontend-developer 에이전트
+  - [x] backend-developer 에이전트
+- [x] backend-dev 스킬 추가
 
 ### 프로젝트 구조 생성
 - [x] src/app/ 디렉토리 구조 생성
